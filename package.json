@@ -1,0 +1,22 @@
+{
+  "name": "grp-structure",
+  "version": "1.0.0",
+  "description": "it is the basic mern skeleton folder structure",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ramans0809/grp_structure.git"
+  },
+  "keywords": [
+    "grp_structure"
+  ],
+  "author": "grp",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ramans0809/grp_structure/issues"
+  },
+  "homepage": "https://github.com/Ramans0809/grp_structure#readme"
+}
